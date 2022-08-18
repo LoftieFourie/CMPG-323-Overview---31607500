@@ -21,6 +21,11 @@ project 5 - A report will be built in Power Bi containing all relevant data the 
 
 Project 1 - The Repository contains a readme file with information on project 1 as well as information on the other projects, more information will be added as the projects progress.
 
+# Diagram of repositories and kanban project
+
+![Screenshot 2022-08-18 143227](https://user-images.githubusercontent.com/63976609/185395710-b618aed6-7c9c-43d0-83cd-5488effecfc0.png)
+
+
 # Branching Strategy
 
 Branching strategies will depend on the project as well as the challenges it presents here follows each repositories branching strategies and will be updated when neccesary:
@@ -50,3 +55,9 @@ project 5 -
 # explain the storage of credentials and sensitive information
 
 Credentials and sensitive information will be stored in the local repositore and will not be available unless it is so requested.
+
+# Referances
+
+	https://docs.github.com/en/repositories/creating-andmanaging-repositories/about-repositories
+	https://docs.github.com/en/issues/trying-out-the-newprojects-experience/about-projects
+	https://docs.microsoft.com/enus/learn/paths/manage-project-lifecycle-github/
