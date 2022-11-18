@@ -32,25 +32,25 @@ Branching strategies will depend on the project as well as the challenges it pre
 
 Project 1 - No branches currently needed aside from the main branch as there is only one version of the kanban board while the readme will be updated as the POE and other projects progress.
 
-project 2 - 
+project 2 - API Development had two brances to ensure the main branch is always in working codition and using the development branch to make changes.
 
-project 3 -
+project 3 - Used only the main branch for the development in project 3 as that is al I felt was neccesary, it would have been more productive to use multiple branches in this case.
 
-project 4 -
+project 4 - Using UI path for automation I made use of only one branch as all the edits were saved in UiPatch itself thus any changes made were first made in ui path and uploaded when it is confirmewd to be working.
 
-project 5 -
+project 5 - Using Power Bi Iused the same strategy as with project 4 in the sense that all changes made were saved on power Bi as well as published to power Bi, after everything was in working order the final project was submitted to github.
 
 # .gitignore in each project
 
 project 1 - No .gitignore will be used as the only file to commit is the ReadMe file which is crucial to the assignment.
 
-project 2 -
+project 2 - Git ignore to ignore any files that may give away any personal as well as confidential information.
 
-project 3 -
+project 3 - Git ignore to ignore any files that may give away any personal as well as confidential information.
 
-project 4 -
+project 4 - No git ignore needed for UiPath and the way it was used for the project.
 
-project 5 -
+project 5 - No git ignore needed for PowerBi and the report made using powerBi. 
 
 # explain the storage of credentials and sensitive information
 
