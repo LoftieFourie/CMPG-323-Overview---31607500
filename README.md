@@ -29,6 +29,14 @@ project 5 - A report will be built in Power Bi containing all relevant data the 
 
 Project 1 - The Repository contains a readme file with information on project 1 as well as information on the other projects, more information will be added as the projects progress.
 
+Project 2 - The repository contains a readme file with information on project 2 as well as my understanding of the topics and concepts used in the project. It also contains the code for the project in a folder with any confidential information removed.
+
+Project 3 - The repository contains a readme file with information on project 3 as well as my understanding of the topics and concepts used in the project. It also contains all necessary files to run the program without containing any secure or confidential files.
+
+Project 4 - The repository contains a readme file with information on project 4 as well as my understanding of the topics and concepts used in the project. It also contains the UiPath file of the project as well as the excel file containing the data inside the folder itself. 
+
+Project 5 - The repository contains a readme file with information on project 5 as well as my understanding of the topics and concepts used in the project. It also contains the Power Bi folder for the project. Running this will allow the user to view the project.
+
 # Diagram of repositories and kanban project
 
 ![Screenshot 2022-08-18 143227](https://user-images.githubusercontent.com/63976609/185395710-b618aed6-7c9c-43d0-83cd-5488effecfc0.png)
