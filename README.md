@@ -8,13 +8,21 @@ Here are the links for both the repository and project:
 		https://github.com/LoftieFourie/CMPG-323-Overview---31607500.git
 		https://github.com/users/LoftieFourie/projects/1
 		
-Project 2 - After the API development training we will create a github repository to display all work that has been done for the project. 
+Project 2 - After the API development training we will create a github repository to display all work that has been done for the project. Here is the link to the repository for project 2:
 
-Project 3 - An existing ASP.NET Core MVC Web Application will be given to the learners to be enhanced and improved. This is to test the ability to read and understand code. A github repository will be created to store all changes made to the application as well as the finnished product.
+		https://github.com/LoftieFourie/CMPG323-Project-2---31607500.git
 
-project 4 - The learner will use the web application used is project 3 and test it using a test dataset with input data and a desired output. This prosess should be automated using RPA. All progress made as well as the finished program will be stored in a github repository.
+Project 3 - An existing ASP.NET Core MVC Web Application will be given to the learners to be enhanced and improved. This is to test the ability to read and understand code. A github repository will be created to store all changes made to the application as well as the finnished product. Here is the link to the repository for project 3:
 
-project 5 - A report will be built in Power Bi containing all relevant data the devices gathered. the data will be shared through visualisations built into a report or dashboard. The report as well as all related programs will be stored in a github repository.
+		https://github.com/LoftieFourie/CMPG-323-Project-3---31607500.git
+
+project 4 - The learner will use the web application used is project 3 and test it using a test dataset with input data and a desired output. This prosess should be automated using RPA. All progress made as well as the finished program will be stored in a github repository. Here is the link to the repository for project 4:
+
+		https://github.com/LoftieFourie/CMPG-323-Project-4---31607500.git
+
+project 5 - A report will be built in Power Bi containing all relevant data the devices gathered. the data will be shared through visualisations built into a report or dashboard. The report as well as all related programs will be stored in a github repository. Here is the link to the repository for project 5:
+
+		https://github.com/LoftieFourie/CMPG-323-Project-5---31607500-.git
 
 
 # Projects Repositories
